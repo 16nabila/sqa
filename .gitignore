@@ -1,0 +1,5 @@
+# Ignore the metadata folder
+.metadata/
+
+# Don’t ignore anything else
+!.gitignore
